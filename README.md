@@ -1,1 +1,1 @@
-# Project-Basecamp-Mercury
+# Project: Basecamp Mercury
